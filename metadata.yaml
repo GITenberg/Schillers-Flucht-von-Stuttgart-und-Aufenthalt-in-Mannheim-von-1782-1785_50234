@@ -1,15 +1,21 @@
 _repo: Schillers-Flucht-von-Stuttgart-und-Aufenthalt-in-Mannheim-von-1782-1785_50234
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Wychgram, J.
     gutenberg_agent_id: '45765'
     url: http://www.gutenberg.org/2009/agents/45765
+covers:
+- cover_type: archival
+  image_path: 50234-h/images/cover.jpg
 creator:
   author:
     agent_name: Streicher, Andreas
     gutenberg_agent_id: '45764'
     url: http://www.gutenberg.org/2009/agents/45764
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50234#Schillers-Flucht-von-Stuttgart-und-Aufenthalt-in-Mannheim-von-1782-1785
 gutenberg_issued: '2015-10-16'
 gutenberg_type: Text
 identifiers:
